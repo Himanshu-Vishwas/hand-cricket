@@ -38,7 +38,7 @@ A real-time “hand cricket” game that uses your webcam to count the number of
 
 ## Usage
 
-python handcricket.py
+python main.py
 
 - A window titled **Hand Cricket Game** will open.  
 - Show between 0–5 fingers on your hand; thumb up alone counts as 6.  
