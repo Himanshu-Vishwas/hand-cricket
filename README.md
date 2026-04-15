@@ -6,7 +6,7 @@ A real-time “hand cricket” game that uses your webcam to count the number of
 
 ## Features
 
-- Live webcam feed with split-screen UI  
+- Live webcam feed with split-screen UI.
 - Detects 0–6 fingers (thumb-only counts as 6)  
 - 5-second rounds: computer’s throw locks in at 3 seconds  
 - “Out!” if player and computer show the same count  
